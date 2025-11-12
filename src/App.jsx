@@ -81,7 +81,7 @@ function App() {
           <a
             href="twitter.com/intent/tweet"
             id='tweet-quote'
-            target='_blank'
+            target='_top'
             rel='noreferrer noopener'
             className='h-12 w-12 rounded cursor-pointer flex items-center justify-center hover:opacity-80 transition-colors duration-300'
             style={{ backgroundColor: color }}
