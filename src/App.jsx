@@ -79,7 +79,7 @@ function App() {
         </div>
         <div className='flex justify-between items-center'>
           <a
-            href=""
+            href="twitter.com/intent/tweet"
             id='tweet-quote'
             target='_blank'
             rel='noreferrer noopener'
